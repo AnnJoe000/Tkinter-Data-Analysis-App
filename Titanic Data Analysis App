@@ -1,0 +1,15 @@
+Titanic Data Analysis App 
+The Titanic Data Analysis App is a simple Tkinter-based GUI application that allows users to explore and analyze the Titanic dataset interactively.
+The app leverages Seaborn, Pandas, and Matplotlib to provide data insights and visualizations in an easy-to-use interface.
+
+Key Features 
+ Load Titanic Dataset – Automatically loads the Titanic dataset from Seaborn.
+ View Data Preview – Displays the first 5 rows of the dataset in a text box.
+ Basic Statistics – Shows key statistics such as mean, median, min, and max for numerical columns.
+ Survival Rate Calculation – Computes and displays the overall survival rate of passengers.
+ Fare vs Age Scatter Plot – Visualizes the relationship between passenger fare and age.
+ Survival Rate by Class – Generates a bar chart showing the survival rate for different passenger classes.
+ User-Friendly Interface – Simple and interactive Tkinter GUI with easy navigation.
+
+Use Case 
+This app is perfect for beginners in data science and Python GUI development, helping users analyze real-world datasets interactively without writing code.
